@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adversarylabs/engineering-review-adversary.git"
+    "url": "git+https://github.com/doomerlabs/engineering-review-adversary.git"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json --noEmit && node scripts/build.mjs",
