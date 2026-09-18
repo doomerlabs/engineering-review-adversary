@@ -24,4 +24,4 @@ This repository contains the language-agnostic Engineering Review adversary. It 
 - Preserve the five named calibration fixtures and their expected review snapshots.
 - Add clean counterexamples when sharpening a concern.
 - Keep automatic detection and runtime artifact isolation tests passing.
-- Run `npm test`, `adversary validate .`, and `adversary pack --check .`.
+- Run `npm test`, `doomer validate .`, and `doomer pack --check .`.
