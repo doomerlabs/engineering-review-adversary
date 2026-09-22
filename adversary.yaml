@@ -1,4 +1,4 @@
-name: adversarylabs/review/engineering
+name: review/engineering
 version: 0.0.44
 description: Reviews proposed changes with Staff-level engineering judgment across languages.
 
